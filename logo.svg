@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="224" fill="#0E0F0C"/>
+  <!-- «G» из блина: кольцо с вырезом + перекладина, в центре втулка -->
+  <path d="M710 314 A280 280 0 1 0 792 512" fill="none" stroke="#FF5A1F" stroke-width="120"/>
+  <rect x="610" y="452" width="242" height="120" fill="#FF5A1F"/>
+  <circle cx="512" cy="512" r="62" fill="#FF5A1F"/>
+</svg>
